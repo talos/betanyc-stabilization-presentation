@@ -46,6 +46,11 @@ div.imageText {
   text-shadow:0px 0px 5px rgba(0,0,0,0.2);
 }
 
+.center {
+  text-align: center;
+  margin:auto;
+}
+
 notes {
     display:none;
 }
